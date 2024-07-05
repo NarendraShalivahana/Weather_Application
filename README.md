@@ -1,9 +1,4 @@
 # Weather_Application
-Sure, here's a shorter version of the README file for the Weather Spring Boot application:
-
----
-
-# Weather Spring Boot Application
 
 ## Overview
 
@@ -40,7 +35,7 @@ This application provides real-time weather information using external APIs, bui
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-spring-boot.git
+   git clone [https://github.com/yourusername/weather-spring-boo](https://github.com/NarendraShalivahana/Weather_Application.git]
    ```
 2. Navigate to the project directory:
    ```bash
