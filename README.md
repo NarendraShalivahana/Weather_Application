@@ -33,23 +33,6 @@ This application provides real-time weather information using external APIs, bui
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/weather-spring-boo](https://github.com/NarendraShalivahana/Weather_Application.git]
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Weather_Appplication
-   ```
-3. Build the project:
-   ```bash
-   mvn clean install
-   ```
-4. Run the application:
-   ```bash
-   mvn spring-boot:run
-   ```
-
 ### Configuration
 
 Set your API key in `application.properties`:
